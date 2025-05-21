@@ -24,7 +24,7 @@ quiz-master/
 ```bash
 cd server
 npm install
-cp .env.example .env  # Copy example env file
+# cp .env.example .env  # Copy example env file
 # Edit .env with your MongoDB URI and JWT secret
 npm run dev
 ```
